@@ -1,0 +1,4 @@
+sample:
+  directives:
+    multiplier: 3
+    messageSample: Default sample message on development environment

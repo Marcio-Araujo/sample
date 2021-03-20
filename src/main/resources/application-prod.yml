@@ -1,0 +1,4 @@
+sample:
+  directives:
+    multiplier: 1
+    messageSample: Default sample message on production environment
